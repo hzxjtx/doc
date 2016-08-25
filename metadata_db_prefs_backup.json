@@ -532,12 +532,20 @@
   "tag_browser_hidden_categories": [], 
   "gui_view_history": [
     [
+      6, 
+      "shell cmd"
+    ], 
+    [
+      10, 
+      "postgres install"
+    ], 
+    [
       7, 
       "spark streaming optimizition_self"
     ], 
     [
-      6, 
-      "shell cmd"
+      8, 
+      "spark streaming study"
     ], 
     [
       5, 

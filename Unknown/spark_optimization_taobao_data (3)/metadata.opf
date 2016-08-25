@@ -9,8 +9,8 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2016-08-13T04:17:12.618153+00:00" name="calibre:timestamp"/>
-        <meta content="淘宝内部PPT：Spark Streaming 场景下两类倾斜问题的研究 数盟社区" name="calibre:title_sort"/>
+        <meta content="2016-08-13T04:17:12+00:00" name="calibre:timestamp"/>
+        <meta content="spark_optimization_taobao_data" name="calibre:title_sort"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" title="Cover" type="cover"/>
