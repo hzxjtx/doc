@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48e2a24c-8033-408e-bf8e-022d3cf7e637</dc:identifier>
+        <dc:title>ML_CNN_Deep Learning模型之：CNN卷积神经网络（一）深度解析CNN - 莫小</dc:title>
+        <dc:creator opf:file-as="博客园" opf:role="aut">ML</dc:creator>
+        <dc:creator opf:file-as="博客园" opf:role="aut">博客园</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;ML&quot;: &quot;&quot;, &quot;博客园&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-10-08T04:01:12.022300+00:00" name="calibre:timestamp"/>
+        <meta content="ML_CNN_Deep Learning模型之：CNN卷积神经网络（一）深度解析CNN - 莫小" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f514d17e-2dd7-4826-83a5-f70707995603</dc:identifier>
+        <dc:title>Spark_Spark2 for beginners</dc:title>
+        <dc:creator opf:file-as="Spark2" opf:role="aut">Spark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-05T12:22:42+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Spark&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-10-26T02:15:47.865937+00:00" name="calibre:timestamp"/>
+        <meta content="spark2 for beginners" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

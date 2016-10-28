@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">743b3f05-9f76-4bcf-a13c-3560064f6226</dc:identifier>
+        <dc:title>Python_学习笔记 第二版</dc:title>
+        <dc:creator opf:file-as="Python" opf:role="aut">Python</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Python&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-10-20T06:29:27+00:00" name="calibre:timestamp"/>
+        <meta content="Python_学习笔记 第二版" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -533,35 +533,63 @@
   "gui_view_history": [
     [
       6, 
-      "shell cmd"
+      "Zetyun_Shell cmd"
+    ], 
+    [
+      27, 
+      "Spark_Spark2 for beginners"
+    ], 
+    [
+      2, 
+      "Transfer_kafka_origin_paper"
+    ], 
+    [
+      23, 
+      "Python \u5b66\u4e60\u7b14\u8bb0 \u7b2c\u4e8c\u7248"
+    ], 
+    [
+      14, 
+      "Zetyun_videospark streaming test"
+    ], 
+    [
+      21, 
+      "ML_CNN_Recent advances CNN"
     ], 
     [
       10, 
-      "postgres install"
+      "SQL_postgres install"
     ], 
     [
-      7, 
-      "spark streaming optimizition_self"
+      22, 
+      "ML_CNN_Deep Learning\u6a21\u578b\u4e4b\uff1aCNN\u5377\u79ef\u795e\u7ecf\u7f51\u7edc\uff08\u4e00\uff09\u6df1\u5ea6\u89e3\u6790CNN - \u83ab\u5c0f"
     ], 
     [
-      8, 
-      "spark streaming study"
-    ], 
-    [
-      5, 
-      "kill_job_server"
+      21, 
+      "Your Title Here"
     ], 
     [
       4, 
       "spark-optimization_parameters"
     ], 
     [
-      2, 
-      "netdb-2011"
+      3, 
+      "Spark_optimization_taobao_data"
     ], 
     [
-      1, 
-      "Quick Start Guide"
+      6, 
+      "shell cmd"
+    ], 
+    [
+      14, 
+      "videospark streaming test"
+    ], 
+    [
+      7, 
+      "spark streaming optimizition_self"
+    ], 
+    [
+      10, 
+      "postgres install"
     ]
   ], 
   "library_view books view state": {
@@ -571,34 +599,54 @@
       "size": "center"
     }, 
     "column_sizes": {
-      "publisher": 105, 
-      "pubdate": 108, 
       "rating": 85, 
-      "series": 80, 
+      "pubdate": 108, 
       "tags": 71, 
+      "series": 80, 
+      "timestamp": 91, 
+      "title": 524, 
+      "publisher": 105, 
       "languages": 0, 
       "last_modified": 0, 
-      "timestamp": 91, 
-      "authors": 111, 
-      "title": 524, 
+      "authors": 459, 
       "size": 104
     }, 
     "languages_injected": true, 
     "column_positions": {
-      "publisher": 8, 
-      "pubdate": 9, 
       "rating": 5, 
+      "pubdate": 9, 
+      "title": 1, 
       "series": 7, 
+      "timestamp": 3, 
       "tags": 6, 
+      "publisher": 8, 
       "languages": 11, 
       "last_modified": 10, 
       "ondevice": 0, 
       "authors": 2, 
-      "title": 1, 
-      "timestamp": 3, 
       "size": 4
     }, 
     "sort_history": [
+      [
+        "timestamp", 
+        false
+      ], 
+      [
+        "authors", 
+        true
+      ], 
+      [
+        "timestamp", 
+        true
+      ], 
+      [
+        "authors", 
+        true
+      ], 
+      [
+        "title", 
+        false
+      ], 
       [
         "timestamp", 
         false
