@@ -9,8 +9,8 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Python&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2016-10-28T10:50:32.501804+00:00" name="calibre:timestamp"/>
-        <meta content="Python解析json学习 ASPIRE" name="calibre:title_sort"/>
+        <meta content="2016-10-28T10:50:32+00:00" name="calibre:timestamp"/>
+        <meta content="Python_解析json学习" name="calibre:title_sort"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" title="Cover" type="cover"/>

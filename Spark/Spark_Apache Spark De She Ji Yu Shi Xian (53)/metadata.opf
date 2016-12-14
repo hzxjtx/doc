@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc5411e5-9717-44dc-9d9b-309b52372027</dc:identifier>
+        <dc:title>Spark_Apache Spark 的设计与实现</dc:title>
+        <dc:creator opf:file-as="Spark" opf:role="aut">Spark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>讨论 Apache Spark 的设计与实现，重点关注其设计思想、运行原理、实现架构及性能调优，附带讨论与 Hadoop MapReduce 在设计与实现上的区别。</dc:description>
+        <dc:publisher>GitBook</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;Spark&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-12-08T04:11:45.897167+00:00" name="calibre:timestamp"/>
+        <meta content="Apache Spark 的设计与实现" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

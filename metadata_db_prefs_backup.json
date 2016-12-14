@@ -528,12 +528,37 @@
       "name": "Formats"
     }
   }, 
+  "news_to_be_synced": [], 
   "grouped_search_terms": {}, 
   "tag_browser_hidden_categories": [], 
   "gui_view_history": [
     [
       6, 
       "Zetyun_Shell cmd"
+    ], 
+    [
+      53, 
+      "Spark_Apache Spark \u7684\u8bbe\u8ba1\u4e0e\u5b9e\u73b0"
+    ], 
+    [
+      4, 
+      "Spark_optimization_parameters"
+    ], 
+    [
+      42, 
+      "Distribute LSH"
+    ], 
+    [
+      40, 
+      "Mineing of Massive Datasets"
+    ], 
+    [
+      41, 
+      "book0.dvi"
+    ], 
+    [
+      19, 
+      "Streaming_Report Meetup Intel-Maowei-Wanghuafeng-LegalReviewed"
     ], 
     [
       31, 
@@ -566,30 +591,6 @@
     [
       22, 
       "ML_CNN_Deep Learning\u6a21\u578b\u4e4b\uff1aCNN\u5377\u79ef\u795e\u7ecf\u7f51\u7edc\uff08\u4e00\uff09\u6df1\u5ea6\u89e3\u6790CNN - \u83ab\u5c0f"
-    ], 
-    [
-      21, 
-      "Your Title Here"
-    ], 
-    [
-      4, 
-      "spark-optimization_parameters"
-    ], 
-    [
-      3, 
-      "Spark_optimization_taobao_data"
-    ], 
-    [
-      6, 
-      "shell cmd"
-    ], 
-    [
-      14, 
-      "videospark streaming test"
-    ], 
-    [
-      7, 
-      "spark streaming optimizition_self"
     ]
   ], 
   "library_view books view state": {
@@ -607,28 +608,32 @@
       "languages": 0, 
       "last_modified": 0, 
       "timestamp": 91, 
-      "authors": 459, 
+      "authors": 227, 
       "title": 524, 
       "size": 104
     }, 
     "languages_injected": true, 
     "column_positions": {
-      "publisher": 8, 
-      "pubdate": 9, 
-      "rating": 5, 
-      "series": 7, 
-      "tags": 6, 
+      "publisher": 7, 
+      "pubdate": 8, 
+      "rating": 4, 
+      "series": 6, 
+      "tags": 5, 
       "languages": 11, 
-      "last_modified": 10, 
-      "ondevice": 0, 
-      "authors": 2, 
-      "title": 1, 
-      "timestamp": 3, 
-      "size": 4
+      "last_modified": 9, 
+      "ondevice": 10, 
+      "authors": 1, 
+      "title": 0, 
+      "timestamp": 2, 
+      "size": 3
     }, 
     "sort_history": [
       [
         "timestamp", 
+        false
+      ], 
+      [
+        "ondevice", 
         false
       ], 
       [
@@ -637,7 +642,7 @@
       ], 
       [
         "timestamp", 
-        true
+        false
       ]
     ], 
     "hidden_columns": [

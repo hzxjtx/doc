@@ -1,0 +1,32 @@
+1. install mysql
+groupadd mysql
+useradd -r -g mysql -s /bin/false mysql
+mkdir data
+chmod 777 data
+chown -R mysql .
+chgrp -R mysql .
+bin/mysqld --initialize --user=mysql --basedir=/usr/local/mysql/ --datadir=/usr/local/mysql/data/
+bin/mysqld_safe --user=mysql &
+
+2. mkdir file
+/var/run/mariadb/mariadb.pid
+/var/log/mariadb/mariadb.log
+ll -s /var/lib/mysql/mysql.sock /tmp/mysql.sock 
+
+3. change password
+bin/mysqld_safe --user=mysql --skip-grant-tables --skip-networking &
+update user set authentication_string=password('XXXX') where user='root';
+
+4. restart
+set password for 'jeff@localhost' = PASSWORD('mypass')
+ALTER USER 'root'@'localhost' IDENTIFIED BY '********'
+FLUSH PRIVILEGES
+
+5. start as service
+cp mysql.server /etc/init.d/mysql
+cp my-default.cnf /etc/
+chkconfig mysql on
+/usr/local/mysql/support-files
+
+
+ root@localhost: Cg*SUgUso1k8
