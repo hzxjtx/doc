@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bab82a46-4e98-47ba-821d-2bc56a03be5a</dc:identifier>
+        <dc:title>postgresql 切换数据库命令 - Isildur2010的专栏 - 博客频道</dc:title>
+        <dc:creator opf:file-as="CSDN" opf:role="aut">CSDN</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;CSDN&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-01-01T01:00:05.685624+00:00" name="calibre:timestamp"/>
+        <meta content="postgresql 切换数据库命令 - Isildur2010的专栏 - 博客频道" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d57e012-eb80-4d76-bacb-6eb0e71206d8</dc:identifier>
+        <dc:title>ML_ISLR Sixth Printing</dc:title>
+        <dc:creator opf:file-as="ML" opf:role="aut">ML</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-30T01:55:15+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;ML&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-01-19T08:24:33+00:00" name="calibre:timestamp"/>
+        <meta content="ML_ISLR Sixth Printing" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
