@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7b19f91-c27b-4cda-83ad-bf8664d235b1</dc:identifier>
+        <dc:title>GemFire_Architecture_Hitachi</dc:title>
+        <dc:creator opf:file-as="McKean, Alan" opf:role="aut">FileSystem</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;FileSystem&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-02-21T10:25:59.230070+00:00" name="calibre:timestamp"/>
+        <meta content="GemFire_Architecture_Hitachi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75bf0beb-64bf-44e0-a026-83c81da3029b</dc:identifier>
+        <dc:title>ML_OpenFace: A general-purpose face recognition library with mobile applications</dc:title>
+        <dc:creator opf:file-as="Brandon Amos, Bartosz Ludwiczuk, Mahadev Satyanarayanan" opf:role="aut">ML</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>face recognition</dc:subject>
+        <dc:subject>deep learning</dc:subject>
+        <dc:subject>machine learning</dc:subject>
+        <dc:subject>computer vision</dc:subject>
+        <dc:subject>neural networks</dc:subject>
+        <dc:subject>mobile computing</dc:subject>
+        <meta content="{&quot;ML&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-02-04T08:58:26.709744+00:00" name="calibre:timestamp"/>
+        <meta content="OpenFace: A general-purpose face recognition library with mobile applications" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

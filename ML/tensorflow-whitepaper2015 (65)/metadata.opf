@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce3b86d4-4e5b-4f97-90c3-7a17d435a682</dc:identifier>
+        <dc:title>tensorflow-whitepaper2015</dc:title>
+        <dc:creator opf:file-as="ML" opf:role="aut">ML</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;ML&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-01-24T10:42:20.715590+00:00" name="calibre:timestamp"/>
+        <meta content="tensorflow-whitepaper2015" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

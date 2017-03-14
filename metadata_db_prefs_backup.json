@@ -533,12 +533,56 @@
   "tag_browser_hidden_categories": [], 
   "gui_view_history": [
     [
-      62, 
-      "ML_MTCNN"
-    ], 
-    [
       6, 
       "Zetyun_Shell cmd"
+    ], 
+    [
+      89, 
+      "GemFile1-4-1"
+    ], 
+    [
+      89, 
+      "Version 1.4.1"
+    ], 
+    [
+      87, 
+      "Pivotal GemFire\u00ae 9.0 Documentation | Pivotal GemFire Docs"
+    ], 
+    [
+      83, 
+      "GemFire_Architecture_Hitachi"
+    ], 
+    [
+      80, 
+      "SnappData"
+    ], 
+    [
+      52, 
+      "Crontab"
+    ], 
+    [
+      69, 
+      "FaceNet"
+    ], 
+    [
+      68, 
+      "LeNet mnist"
+    ], 
+    [
+      65, 
+      "tensorflow-whitepaper2015"
+    ], 
+    [
+      67, 
+      "Machine Learning in Action"
+    ], 
+    [
+      64, 
+      "ML_Cascnn_cvpr2015 cascnn"
+    ], 
+    [
+      62, 
+      "ML_MTCNN"
     ], 
     [
       61, 
@@ -547,50 +591,6 @@
     [
       62, 
       "Microsoft Word - SPL_final_double.docx"
-    ], 
-    [
-      52, 
-      "Crontab"
-    ], 
-    [
-      36, 
-      "Scala_ByExample"
-    ], 
-    [
-      10, 
-      "SQL_postgres install"
-    ], 
-    [
-      33, 
-      "Python_\u89e3\u6790json\u5b66\u4e60"
-    ], 
-    [
-      53, 
-      "Spark_Apache Spark \u7684\u8bbe\u8ba1\u4e0e\u5b9e\u73b0"
-    ], 
-    [
-      4, 
-      "Spark_optimization_parameters"
-    ], 
-    [
-      42, 
-      "Distribute LSH"
-    ], 
-    [
-      40, 
-      "Mineing of Massive Datasets"
-    ], 
-    [
-      41, 
-      "book0.dvi"
-    ], 
-    [
-      19, 
-      "Streaming_Report Meetup Intel-Maowei-Wanghuafeng-LegalReviewed"
-    ], 
-    [
-      31, 
-      "Spark_Apache Spark RDD API Examples"
     ]
   ], 
   "library_view books view state": {

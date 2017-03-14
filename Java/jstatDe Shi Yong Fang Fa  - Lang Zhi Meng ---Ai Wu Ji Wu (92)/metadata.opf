@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">92</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc5a2f0b-f596-44e8-8375-66ced3f84532</dc:identifier>
+        <dc:title>jstat的使用方法 - 狼之梦---爱乌及屋</dc:title>
+        <dc:creator opf:file-as="ITeye技术网站" opf:role="aut">Java</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Java&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-03-07T07:45:38.331127+00:00" name="calibre:timestamp"/>
+        <meta content="jstat的使用方法 - 狼之梦---爱乌及屋" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

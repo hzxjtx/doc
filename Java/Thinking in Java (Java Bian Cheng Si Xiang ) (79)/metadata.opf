@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba994df6-dea2-4fcf-b5cb-1722e1b30c03</dc:identifier>
+        <dc:title>Thinking in Java (Java 编程思想)</dc:title>
+        <dc:creator opf:file-as="Java" opf:role="aut">Java</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Thinking in Java (Java 编程思想)</dc:description>
+        <dc:publisher>GitBook</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;Java&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-02-10T06:47:28.427901+00:00" name="calibre:timestamp"/>
+        <meta content="Thinking in Java (Java 编程思想)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

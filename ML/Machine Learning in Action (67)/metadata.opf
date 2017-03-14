@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0deb21f-7320-4250-a9d1-3e7f75fee711</dc:identifier>
+        <dc:title>Machine Learning in Action</dc:title>
+        <dc:creator opf:file-as="ML" opf:role="aut">ML</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-26T23:57:11+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;ML&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-01-24T23:44:38.667068+00:00" name="calibre:timestamp"/>
+        <meta content="Machine Learning in Action" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
