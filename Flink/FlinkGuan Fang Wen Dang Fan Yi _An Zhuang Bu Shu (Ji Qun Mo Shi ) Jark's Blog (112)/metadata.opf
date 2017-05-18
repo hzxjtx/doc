@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69060230-f1b4-4ec4-ac4a-5a308495b170</dc:identifier>
+        <dc:title>Flink官方文档翻译：安装部署（集群模式） Jark's Blog</dc:title>
+        <dc:creator opf:file-as="FlinkDeploy" opf:role="aut">Flink</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Flink&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-05-03T05:55:19.949692+00:00" name="calibre:timestamp"/>
+        <meta content="Flink官方文档翻译：安装部署（集群模式） Jark's Blog" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -9,8 +9,8 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Spark&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2016-10-06T07:18:17.223268+00:00" name="calibre:timestamp"/>
-        <meta content="Spark_Usage_CreationResearch-Telecom-DINGtinghe" name="calibre:title_sort"/>
+        <meta content="2016-10-06T07:18:17+00:00" name="calibre:timestamp"/>
+        <meta content="Spark_Usage_CreationResearch-Telecom" name="calibre:title_sort"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" title="Cover" type="cover"/>
